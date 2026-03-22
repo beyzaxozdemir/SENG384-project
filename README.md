@@ -82,18 +82,14 @@ docker compose up --build
 
 ## Screenshots
 
-### Form Page
+### Docker Running
+![Docker](screenshots/docker.png)
 
+### Form Page
 ![Form](screenshots/form.png)
 
 ### List Page
-
 ![List](screenshots/list.png)
-
-### Docker Running
-
-![Docker](screenshots/docker.png)
-
 ---
 
 ## Notes
